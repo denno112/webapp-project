@@ -1,2 +1,2 @@
-# webapp1
-This is my first building a web app within the cloud.
+# webapp-project
+Java Web app set up on an EC2 instance. 
