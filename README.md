@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Java Web app Deployment with AWS CI/CD
 
 In this project I combined Java web App velopment with AWS CI/CD tools!
@@ -41,3 +42,7 @@ Dennis Morrison  - [Dtech2133@gmail.com](mailto:dtech2133@gmail.com)
 ##Conclusion
 
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects
+=======
+# webapp-project
+Java Web app set up on an EC2 instance. 
+>>>>>>> main
