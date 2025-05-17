@@ -1,15 +1,15 @@
-<<<<<<< HEAD
+>>>>>>>  HEAD
 #Java Web app Deployment with AWS CI/CD
 
-In this project I combined Java web App velopment with AWS CI/CD tools!
+In this project I combined Java web App delopment with AWS CI/CD tools!
 
 ## Table of Contects 
 
 <br>
-- [Introduction] (#Introduction)
-- [Technologies] (#Technologies)
-- [Contact] (#Contact)
-- [Concusion] (#Concusion)
+- [ Introduction ] ( #Introduction )
+- [ Technologies ] ( #Technologies )
+- [ Contact ] ( #Contact )
+- [ Concusion ] ( #Concusion )
 
 <br>
 
