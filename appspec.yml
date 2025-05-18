@@ -2,7 +2,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /target/webapp-project
+  - source: /target/nextwork-web-project
     destination: /usr/share/tomcat/webapps/
 hooks:
   BeforeInstall:
